@@ -7,7 +7,7 @@ hide:
 
 # Terminus Website
 
-![Homepage](img/homepage.png){align=left width=600}  
+![homepage](img/homepage.png){align=left width=600}  
 
 ##Welcome to the Terminus Website!
 We are making a DayZ server based on the original BastionRP server.  
