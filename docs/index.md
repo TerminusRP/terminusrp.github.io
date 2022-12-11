@@ -13,3 +13,5 @@ hide:
 We are making a DayZ server based on the original BastionRP server.  
 
 [Join Now!](join.md){ .md-button }  
+
+This is website version 1!
