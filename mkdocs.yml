@@ -1,0 +1,53 @@
+site_name: Terminus
+site_url: https://terminusrp.com/
+nav:
+  - Home: index.md
+  - Join: join.md
+  - Lore:
+    - 'The Essentials': lore.md
+    - 'City Specific Lore':
+      - 'London': empty.md
+      - 'New York': empty.md
+      - 'Moscow': empty.md
+    - 'Character Guides':
+      - 'Picking a Guide': empty.md
+      - 'Self-Character Guide': empty.md
+      - 'ISF Guide': empty.md
+      - 'The Order Guide': empty.md
+      - 'Custom Character Guide': empty.md
+plugins:
+  - glightbox
+  - search
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.expand
+    - header.autohide
+    - content.tabs.link
+  logo: assets/NCC_ORDER_W_SML.png
+  favicon: assets/favicon.ico
+  palette:
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: blue
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - scheme: default
+      primary: blue
+      toggle:
+        icon: material/lightbulb 
+        name: Switch to dark mode
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - md_in_html
