@@ -1,20 +1,28 @@
 site_name: Terminus
 site_url: https://terminusrp.com/
 nav:
-  - Home: index.md
-  - Join: join.md
-  - Lore:
+  - 'Homepage': index.md
+  - 'Join Us': join.md
+  - 'Terminus Lore':
     - 'The Essentials': lore.md
     - 'City Specific Lore':
       - 'London': empty.md
       - 'New York': empty.md
       - 'Moscow': empty.md
+    - 'Faction Specific Lore':
+      - 'NCC': empty.md
+      - 'ISF': empty.md
+      - 'The Order': empty.md
     - 'Character Guides':
       - 'Picking a Guide': empty.md
       - 'Self-Character Guide': empty.md
+      - 'NCC Official': empty.md
       - 'ISF Guide': empty.md
       - 'The Order Guide': empty.md
       - 'Custom Character Guide': empty.md
+  - 'Contributors': empty.md
+  - 'Dontators': empty.md
+  - 'Shop 🛒': empty.md
 plugins:
   - glightbox
   - search
@@ -33,12 +41,14 @@ theme:
     # Palette toggle for dark mode
     - scheme: slate
       primary: blue
+      accent: blue
       toggle:
         icon: material/lightbulb-outline
         name: Switch to light mode
     # Palette toggle for light mode
     - scheme: default
       primary: blue
+      accent: blue
       toggle:
         icon: material/lightbulb 
         name: Switch to dark mode

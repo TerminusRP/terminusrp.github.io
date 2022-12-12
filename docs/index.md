@@ -2,6 +2,7 @@
 hide:
   - navigation
   - toc
+  - footer
 ---
 !!! warning "The Website is currently under construction."
 

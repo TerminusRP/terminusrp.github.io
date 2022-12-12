@@ -1,3 +1,7 @@
+---
+hide:
+  - footer
+---
 # The Essentials
 
 !!! info "Don't want to read all the lore?"

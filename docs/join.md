@@ -1,3 +1,7 @@
+---
+hide:
+  - footer
+---
 # Join us on TerminusRP!
 ## Under Construction
 TerminusRP is still being built by The Devs.
