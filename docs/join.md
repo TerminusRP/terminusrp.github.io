@@ -4,7 +4,7 @@ hide:
 ---
 # Join us on TerminusRP!
 ## Under Construction
-TerminusRP is still being built by The Devs.
+TerminusRP is still being created by the developers.
 Join our Discord for updates, announcements, and more:
 
 [:simple-discord:⠀Join the Discord](https://discord.gg/BXrVTKQUFj){ .md-button }

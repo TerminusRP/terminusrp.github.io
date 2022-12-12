@@ -6,13 +6,13 @@ hide:
 ---
 !!! warning "The Website is currently under construction."
 
-# Terminus Website
+# TerminusRP Website
 
 ![bastion](img/bastion.png){align=left width=600}  
 
-##Welcome to the Terminus Website!
+##Welcome to the TerminusRP Website!
 We are making a DayZ server based on the original BastionRP server.  
 
 [Join Now!](join.md){ .md-button }  
 
-This is website version 1!
+This is website version 1.1!

@@ -1,4 +1,4 @@
-site_name: Terminus
+site_name: TerminusRP
 site_url: https://terminusrp.com/
 nav:
   - 'Homepage': index.md
@@ -16,7 +16,7 @@ nav:
     - 'Character Guides':
       - 'Picking a Guide': empty.md
       - 'Self-Character Guide': empty.md
-      - 'NCC Official': empty.md
+      - 'NCC Official Guide': empty.md
       - 'ISF Guide': empty.md
       - 'The Order Guide': empty.md
       - 'Custom Character Guide': empty.md
