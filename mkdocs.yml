@@ -51,3 +51,6 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - md_in_html
+extra:
+  generator: false
+copyright: Copyright &copy; 2022 Mars#3301
